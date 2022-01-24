@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://denkrut17:mern12345678@cluster0.9djfc.mongodb.net/mernWebStorm?retryWrites=true&w=majority",
+  "jwtSecret": "denkrut youtube mern",
+  "baseUrl": "http://localhost:5000"
+}
